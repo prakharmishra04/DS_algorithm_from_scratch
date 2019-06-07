@@ -1,0 +1,43 @@
+
+## make basic script of the following
+1. Linear rigression --tf
+2. Multi-class Regression --tf
+3. OverFitting and regularization
+	SGD parameters (keras)
+4. Multilayer perceptron --tf
+
+5. Debugging your NN
+6.CNNs --keras
+7.  AlexNet
+8. Vgg net
+9. batch Normalization
+
+10. Simple RNN (keras )
+11. LSTMs RNN (Keras )
+12. GRU from Scratch
+13. Dropout and Zone-out
+
+Optimization
+14. GD  and SGD from scratch
+15. Momentum from Scratch
+16. Adagrad from scratch
+17. RMSprop from Scratch
+18. Adadelta from Scratch
+19. Adam from Scratch
+
+
+Application:::
+## I will add later , but feel free to add it.
+
+
+
+
+
+
+
+
+
+
+
+
+
